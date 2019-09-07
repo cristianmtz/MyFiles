@@ -46,6 +46,9 @@
 /*
  * @brief   Application entry point.
  */
+
+
+// Cambio
 int main(void) {
 
   	/* Init board hardware. */
